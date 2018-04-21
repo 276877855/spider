@@ -53,6 +53,7 @@
 
 - ubuntu16.04.3-desktop-amd64 + vmware workstation12.5
 
+
 - 关机、重启命令
 
   ~~~
