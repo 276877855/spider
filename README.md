@@ -40,25 +40,13 @@
 
   抖音App的视频下载，就是普通的App爬取。
 
-  原理说明:
-
-   * 个人网站：http://cuijiahua.com/blog/2018/03/spider-5.html
-
  * douyin_pro:抖音App视频下载（升级版）
 
   抖音App的视频下载，添加视频解析网站，支持无水印视频下载，使用第三方平台解析。
 
-  原理说明:
-
-   * 个人网站：http://cuijiahua.com/blog/2018/03/spider-5.html
-
  * douyin_pro_2:抖音App视频下载（升级版2）
 
   抖音App的视频下载，添加视频解析网站，支持无水印视频下载，通过url解析，无需第三方平台。
-
-  原理说明:
-
-   * 个人网站：http://cuijiahua.com/blog/2018/03/spider-5.html
 
   动态示意图：
 
@@ -67,10 +55,6 @@
  * geetest.py:GEETEST验证码破解
 
     爬虫最大的敌人之一是什么？没错，验证码！Geetest作为提供验证码服务的行家，市场占有率还是蛮高的。遇到Geetest提供的滑动验证码怎么破？授人予鱼不如授人予渔，接下来就为大家呈现本教程的精彩内容。
-
-    	原理说明:
-
-     * 个人网站：http://www.cuijiahua.com/blog/2017/11/spider_2_geetest.html
 
     动态示意图：
 
@@ -85,10 +69,6 @@
   效果图：
 
   ![image](https://github.com/Jack-Cherish/Pictures/blob/master/11.gif)
-
-  原理说明：
-
-  * 个人网站：http://cuijiahua.com/blog/2018/01/spider_3.html
 
   	功能介绍：
 
