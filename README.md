@@ -16,6 +16,7 @@
     * [网易云音乐批量下载](https://github.com/duke-coding/python-spider/tree/master/Netease "悬停显示")
     * [B站视频和弹幕批量下载](https://github.com/duke-coding/python-spider/tree/master/bilibili "悬停显示")
     * [京东商品晒单图下载](https://github.com/duke-coding/python-spider/tree/master/jd "悬停显示")
+    * [GEETEST验证码破解](https://github.com/duke-coding/python-spider/blob/master/geetest.py "悬停显示")
 * [其它](#其它)
 
 
